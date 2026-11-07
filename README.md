@@ -1,6 +1,4 @@
-# Hi, I'm Claudio Francisco 👋
-
-Junior Full-Stack Developer and IT Technician based in Luanda, Angola.
+# Junior Full-Stack Developer and IT Technician based in Luanda, Angola.
 
 What drives me in technology is understanding how everything fits together: from the code of an application to the infrastructure that runs it and the security that protects it. That end-to-end view is what I bring to my work.
 
