@@ -31,8 +31,8 @@ A business management system in Python with an MVC architecture and an SQLite da
 
 ## Currently
 
-- 🔨 Building and improving the INFOSOLUTIONS project
-- 📚 Deepening my knowledge of TypeScript, APIs and vulnerability management
+- 🔨 Building and improving my knoledges in Web Development
+- 📚 Deepening my knowledge of React, APIs and vulnerability management
 - 🤝 Looking for real, challenging projects and people to build them with
 
 ## Let's connect
