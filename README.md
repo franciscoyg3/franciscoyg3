@@ -37,5 +37,5 @@ A business management system in Python with an MVC architecture and an SQLite da
 
 ## Let's connect
 
-- LinkedIn: www.linkedin.com/in/claudio-franisco-dev/
+- LinkedIn: [www.linkedin.com/in/claudio-franisco-dev/](https://www.linkedin.com/in/claudio-francisco-dev)
 - Email: claudiofrancisco1400@gmail.com
