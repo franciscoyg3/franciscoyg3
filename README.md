@@ -26,6 +26,7 @@ What drives me in technology is understanding how everything fits together: from
 
 **[infosolutions-system](https://github.com/franciscoyg3/infosolutions-system)**
 A business management system in Python with an MVC architecture and an SQLite database. It manages customers, employees, products, sales and reports, with data validation and stock control. The project is open, and contributions are welcome: admin login, automated tests, CSV export and more.
+
 **[luzia-eventos-system](https://github.com/franciscoyg3/luzia-eventos-system)**
 A venue reservation and booking management system built with React, designed to streamline scheduling and simplify event planning through an intuitive interface. It allows users to check availability, submit reservation requests, and keep track of scheduled events smoothly.
 
